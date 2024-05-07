@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **nick.l.dimartino@gmail.com**
 
-- ⚡ Fun fact **I have won four 1st place bodybuilding awards, I backpacked Europe for 50 days, I snowboard, and I have been to 12 Electronic Dance Music (EDM) Festivals.**
+- ⚡ Fun fact **I have won four 1st place bodybuilding awards, I'm a US Military Veteran, I backpacked Europe for 50 days, I snowboard, and I have been to 12 Electronic Dance Music (EDM) Festivals.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
