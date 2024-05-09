@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **A Next.js application**
 
-- 🌱 I’m currently learning **The MERN-Stack and TypeScript**
+- 🌱 I’m currently learning **Next.js with TypeScript**
 
 - 🤝 I’m looking for help with **Combining Next.js with AWS**
 
