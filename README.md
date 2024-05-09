@@ -5,9 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nickldimartino" alt="nickldimartino" /></a> </p>
 
-- 🔭 I’m currently working on [TriFit](https://github.com/nickldimartino/trifit)
+- 🔭 I’m currently working on **A Next.js application**
 
 - 🌱 I’m currently learning **The MERN-Stack and TypeScript**
+
+- 🤝 I’m looking for help with **Combining Next.js with AWS**
 
 - 👨‍💻 All of my projects are available at [https://nickldimartino.github.io/portfolio/](https://nickldimartino.github.io/portfolio/)
 
@@ -19,7 +21,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://codepen.io/nickldimartino" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="nickldimartino" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nicholas-dimartino" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nicholas-dimartino" height="30" width="40" /></a>
+<a href="https://codesandbox.com/nickldimartino" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="nickldimartino" height="30" width="40" /></a>
+<a href="https://instagram.com/nldimartino" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nldimartino" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/nick_l_dimartino" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nick_l_dimartino" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/nldimartino" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nldimartino" height="30" width="40" /></a>
 </p>
 
